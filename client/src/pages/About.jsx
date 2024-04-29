@@ -3,12 +3,12 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Sahand Estate</h1>
-      <p className='mb-4 text-slate-700'>Sahand Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About EstateEase</h1>
+      <p className='mb-4 text-slate-700'>EstateEase stands at the forefront of the real estate industry, renowned for our expertise in facilitating seamless property transactions. With a dedicated team of seasoned agents, we specialize in assisting clients in purchasing, selling, and renting properties within the most coveted neighborhoods.</p>
       <p className='mb-4 text-slate-700'>
-      Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
+      Our ethos revolves around a singular mission: empowering clients to accomplish their real estate objectives through tailored guidance, unparalleled service, and an in-depth comprehension of the local market dynamics. Whether you're embarking on the journey of purchasing your dream home, divesting a property, or seeking a rental, we pledge unwavering support at every stage of the process.
       </p>
-      <p className='mb-4 text-slate-700'>Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should be an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients.</p>
+      <p className='mb-4 text-slate-700'>Backed by extensive experience and a profound understanding of the real estate landscape, our agents are committed to delivering superlative service to our clientele. We firmly believe that the endeavor of buying or selling a property should be a gratifying and exhilarating experience, and we spare no effort in actualizing this vision for each client we serve.</p>
     </div>
   )
 }
